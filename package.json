@@ -3,6 +3,22 @@
   "displayName": "Payment Tracker",
   "description": "Track payments with timeline visualization",
   "version": "0.0.1",
+  "publisher": "MidrangeDynamics",
+  "author": {
+    "name": "Midrange Dynamics GmbH",
+    "url": "https://www.midrangedynamics.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Superman22u/budget-app-100.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "expense",
+    "tracker",
+    "finance",
+    "budget"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
