@@ -6,11 +6,12 @@
   "publisher": "MidrangeDynamics",
   "author": {
     "name": "Midrange Dynamics GmbH",
+    "email": "github@midrangedynamics.com",
     "url": "https://www.midrangedynamics.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Superman22u/budget-app-100.git"
+    "url": "https://github.com/midrange-dynamics/payment-manager.git"
   },
   "license": "MIT",
   "keywords": [
